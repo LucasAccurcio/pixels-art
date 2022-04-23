@@ -12,13 +12,6 @@ Front-end:
 ## Executando aplicação
 
 * Para rodar o site:
-
-  ```
-  Clonar o repositório para sua máquina ou fazer o download do arquivo "Download Zip" no botão "Code"
-  ```
-  ```
-  Ter a extensão "Live Server" do VSCode instalada
-  ```
-  ```
-  Abrir o projeto no VSCode, na raiz do diretório iniciar a extensão "Live Server" do VSCode
-  ```
+  - Clonar o repositório para sua máquina ou fazer o download do arquivo "Download Zip" no botão "Code".
+  - Ter a extensão "Live Server" do VSCode instalada;
+  - Abrir o projeto no VSCode, na raiz do diretório iniciar a extensão "Live Server" do VSCode.
